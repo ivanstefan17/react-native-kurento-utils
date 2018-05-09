@@ -35,7 +35,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "github:Kurento/kurento-utils-js"
+    "url": "https://github.com/phoeshow/react-native-kurento-utils"
   },
   "scripts": {
     "coveralls": "scripts/coveralls",

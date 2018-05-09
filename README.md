@@ -31,6 +31,16 @@ To install the library, it's recommended to do that from the [NPM repository](ht
 npm install kurento-utils
 ```
 
+Usage
+------------------------
+Toggle user camera device.
+``` javascript
+let webrtc = new WebRtcPeer.WebRtcPeerSendrect(options, fn)
+_toggle = () => {
+    webrtc.toggleCamera()
+}
+```
+
 About Kurento
 =============
 
