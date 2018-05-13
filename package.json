@@ -42,6 +42,7 @@
     "test": "scripts/test"
   },
   "dependencies": {
+    "events": "^2.0.0",
     "freeice": "^2.1.2",
     "hark": "1.1.3",
     "inherits": "^2.0.1",

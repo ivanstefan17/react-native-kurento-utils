@@ -28,7 +28,7 @@ Be sure to have installed [Node.js](https://nodejs.org/en/) in your system.
 To install the library, it's recommended to do that from the [NPM repository](https://www.npmjs.com/):
 
 ```bash
-npm install kurento-utils
+npm i react-native-kurento-utils
 ```
 
 Usage
